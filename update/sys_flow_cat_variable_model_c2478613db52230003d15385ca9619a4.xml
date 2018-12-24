@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_cat_variable_model">
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>0e478613db52230003d15385ca9619a3</id>
+        <name>Get Sunrise Sunset</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-16 03:08:44</sys_created_on>
+        <sys_id>c2478613db52230003d15385ca9619a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get Sunrise Sunset</sys_name>
+        <sys_package display_value="Nexus" source="x_35203_nexus">b3cbf1d7db12230003d15385ca96191b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Nexus">b3cbf1d7db12230003d15385ca96191b</sys_scope>
+        <sys_update_name>sys_flow_cat_variable_model_c2478613db52230003d15385ca9619a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-16 03:08:44</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>
